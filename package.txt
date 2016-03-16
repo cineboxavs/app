@@ -1,0 +1,3 @@
+org.aerialview.avstream
+org.shatterbox.media
+org.xbmc.kodi
