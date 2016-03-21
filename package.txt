@@ -2,7 +2,7 @@ tv.aerialview.avsupdater
 org.lodi.mobi
 com.dnproteam.funboxhd
 cartoon.hd.2
-TV.portal
+com.mitechlt.tvportal.play
 mtech.videoplayer
 show.box
 org.xbmc.kodi
