@@ -1,2 +1,14 @@
 tv.aerialview.avsupdater
+org.lodi.mobi
+cartoon.hd
+cartoon.hd.2
+TV.portal
+mtech.videoplayer
+show.box
 org.xbmc.kodi
+mob.dro
+movie.hd
+team.viewer
+uk.tv.now
+video.mix
+cine.player
