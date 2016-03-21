@@ -1,3 +1,2 @@
-AVStream
-DDTV
-Lodi
+AVStream v2
+Lodi v2
