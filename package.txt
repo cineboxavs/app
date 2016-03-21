@@ -1,3 +1,2 @@
-org.aerialview.avstream
-org.shatterbox.media
+tv.aerialview.avsupdater
 org.xbmc.kodi
