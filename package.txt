@@ -12,4 +12,4 @@ com.dndgroups.moviehd.ui
 com.teamviewer.quicksupport.market
 com.livetv.android.livetv.uktvnow
 by.video.grabber.mix
-cine.player
+com.pg.xbmc
