@@ -7,7 +7,7 @@ com.mxtech.videoplay.ad
 show.box
 org.xbmc.kodi
 mob.dro
-movie.hd
+com.dndgroups.moviehd.ui
 team.viewer
 uk.tv.now
 video.mix
