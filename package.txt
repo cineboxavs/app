@@ -3,7 +3,7 @@ org.lodi.mobi
 cartoon.hd.2
 com.dnproteam.funboxhd
 com.mitechlt.tvportal.play
-mtech.videoplayer
+com.mxtech.videoplay.ad
 show.box
 org.xbmc.kodi
 mob.dro
