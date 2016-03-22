@@ -10,5 +10,5 @@ mob.dro
 com.dndgroups.moviehd.ui
 com.teamviewer.quicksupport.market
 com.livetv.android.livetv.uktvnow
-video.mix
+by.video.grabber.mix
 cine.player
