@@ -9,6 +9,6 @@ org.xbmc.kodi
 mob.dro
 com.dndgroups.moviehd.ui
 com.teamviewer.quicksupport.market
-uk.tv.now
+com.livetv.android.livetv.uktvnow
 video.mix
 cine.player
