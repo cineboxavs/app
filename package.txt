@@ -4,10 +4,10 @@ com.ca.cahd.ui
 com.dnproteam.funboxhd
 com.mitechlt.tvportal.play
 com.mxtech.videoplayer.ad
-com.tdo.showbox
-film.on
+
+
 org.xbmc.kodi
-com.mobdro.android
+
 com.dndgroups.moviehd.ui
 com.teamviewer.quicksupport.market
 com.livetv.android.livetv.uktvnow
