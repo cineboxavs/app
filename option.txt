@@ -4,10 +4,10 @@ Cartoon HD
 Cartoon HD 2
 TV Portal
 MXplayer
-Showbox
-FilmOn
+Showbox (parse error)
+FilmOn (parse error)
 Kodi 15.2
-Mobdro
+Mobdro (parse error)
 MovieHD
 Team Viewer
 UKTVnow
