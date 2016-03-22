@@ -13,4 +13,4 @@ com.teamviewer.quicksupport.market
 com.livetv.android.livetv.uktvnow
 by.video.grabber.mix
 com.pg.xbmc
-com.speedsoftware.explorer
+
