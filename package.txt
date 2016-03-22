@@ -5,6 +5,7 @@ com.dnproteam.funboxhd
 com.mitechlt.tvportal.play
 com.mxtech.videoplay.ad
 show.box
+film.on
 org.xbmc.kodi
 mob.dro
 com.dndgroups.moviehd.ui
