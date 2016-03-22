@@ -8,7 +8,7 @@ show.box
 org.xbmc.kodi
 mob.dro
 com.dndgroups.moviehd.ui
-team.viewer
+com.teamviewer.quicksupport.market
 uk.tv.now
 video.mix
 cine.player
