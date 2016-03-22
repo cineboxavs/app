@@ -1,6 +1,6 @@
 tv.aerialview.avsupdater
 org.lodi.mobi
-cartoon.hd.2
+com.ca.cahd.ui
 com.dnproteam.funboxhd
 com.mitechlt.tvportal.play
 com.mxtech.videoplay.ad
