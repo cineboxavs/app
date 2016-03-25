@@ -4,7 +4,6 @@ com.ca.cahd.ui
 com.dnproteam.funboxhd
 com.mitechlt.tvportal.play
 com.mxtech.videoplayer.ad
-org.xbmc.kodi
 com.livetv.android.livetv.uktvnow
 by.video.grabber.mix
 com.pg.xbmc
