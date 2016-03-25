@@ -9,3 +9,4 @@ UKTVnow
 Video Mix
 Cine Player
 Showbox
+Movie HD
