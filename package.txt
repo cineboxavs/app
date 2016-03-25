@@ -9,3 +9,4 @@ com.livetv.android.livetv.uktvnow
 by.video.grabber.mix
 com.pg.xbmc
 com.tdo.showbox
+com.dndgroups.moviehd.ui
