@@ -6,7 +6,6 @@ TV Portal
 MXplayer
 Kodi 15.2
 MovieHD
-Team Viewer
 UKTVnow
 Video Mix
 Cine Player
