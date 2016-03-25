@@ -6,7 +6,6 @@ com.mitechlt.tvportal.play
 com.mxtech.videoplayer.ad
 org.xbmc.kodi
 com.dndgroups.moviehd.ui
-com.teamviewer.quicksupport.market
 com.livetv.android.livetv.uktvnow
 by.video.grabber.mix
 com.pg.xbmc
