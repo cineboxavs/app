@@ -10,3 +10,4 @@ Team Viewer
 UKTVnow
 Video Mix
 Cine Player
+Showbox
