@@ -11,3 +11,4 @@ com.tdo.showbox
 com.barrydrillercom.android
 com.mobdro.android
 com.baby.cinemabox
+com.ggagroups.moviehd.ui
