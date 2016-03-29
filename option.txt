@@ -11,3 +11,4 @@ Showbox
 FilmOn TV
 Mobdro
 Cinema box
+Movie HD
