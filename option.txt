@@ -7,7 +7,6 @@ MXplayer
 UKTVnow
 Video Mix
 Cine Player
-Showbox
 FilmOn TV
 Mobdro
 Cinema box
