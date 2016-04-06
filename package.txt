@@ -12,4 +12,4 @@ com.mobdro.android
 com.baby.cinemabox
 com.ggagroups.moviehd.ui
 com.tdo.showbox
-com.thebestlivete.pkdintdpoe 
+com.thebestlivetv.pkdintdpoe 
