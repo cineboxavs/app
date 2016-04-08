@@ -9,7 +9,6 @@ by.video.grabber.mix
 com.pg.xbmc
 com.barrydrillercom.android
 com.baby.cinemabox
-com.ggagroups.moviehd.ui
 com.tdo.showbox
 com.mobdro.android
 com.ggagroups.moviehd.ui
