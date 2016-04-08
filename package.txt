@@ -11,5 +11,4 @@ com.barrydrillercom.android
 com.baby.cinemabox
 com.tdo.showbox
 com.mobdro.android
-com.ggagroups.moviehd.ui
 org.videolan.vlc
