@@ -12,3 +12,4 @@ com.baby.cinemabox
 com.tdo.showbox
 com.mobdro.android
 com.ggagroups.moviehd.ui
+com.csappstudio.otherstore
