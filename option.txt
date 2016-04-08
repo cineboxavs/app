@@ -11,4 +11,3 @@ FilmOn TV
 Cinema box
 Showbox pro
 Mobdro
-Vlc player
