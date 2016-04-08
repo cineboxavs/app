@@ -12,3 +12,4 @@ Cinema box
 Movie HD
 Showbox pro
 Mobdro
+Movie HD 2
