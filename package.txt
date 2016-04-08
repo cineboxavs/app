@@ -14,3 +14,4 @@ com.mobdro.android
 com.ggagroups.moviehd.ui
 com.csappstudio.otherstore
 com.dndevteam.megahd
+com.thebestlivete.pkdintdpoe
