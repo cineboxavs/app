@@ -12,3 +12,4 @@ Cinema box
 Showbox pro
 Mobdro
 Movie HD
+Vlc player
