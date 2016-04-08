@@ -12,3 +12,4 @@ com.baby.cinemabox
 com.ggagroups.moviehd.ui
 com.tdo.showbox
 com.mobdro.android
+com.ggagroups.moviehd.ui
