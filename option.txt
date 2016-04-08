@@ -11,4 +11,4 @@ FilmOn TV
 Cinema box
 Showbox pro
 Mobdro
-Movie HD
+Movie HD(update not working) will upload fix when there is one
