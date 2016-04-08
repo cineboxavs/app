@@ -8,7 +8,7 @@ com.livetv.android.livetv.uktvnow
 by.video.grabber.mix
 com.pg.xbmc
 com.barrydrillercom.android
-com.mobdro.android
 com.baby.cinemabox
 com.ggagroups.moviehd.ui
 com.tdo.showbox
+com.mobdro.android
