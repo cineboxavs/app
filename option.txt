@@ -6,7 +6,6 @@ TV Portal
 MXplayer
 UKTVnow
 Video Mix
-Cine Player
 FilmOn TV
 Cinema Box
 Showbox Pro
