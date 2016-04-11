@@ -6,12 +6,10 @@ com.mitechlt.tvportal.play
 com.mxtech.videoplayer.ad
 com.livetv.android.livetv.uktvnow
 by.video.grabber.mix
-com.pg.xbmc
 com.barrydrillercom.android
 com.baby.cinemabox
 com.tdo.showbox
 com.mobdro.android
-com.ggagroups.moviehd.ui
 com.csappstudio.otherstore
 com.dndevteam.megahd
 com.thebestlivete.pkdintdpoe
