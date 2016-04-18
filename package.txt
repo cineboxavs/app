@@ -13,4 +13,3 @@ com.mobdro.android
 com.csappstudio.otherstore
 com.dndevteam.megahd
 com.thebestlivete.pkdintdpoe
-com.tdo.showbox
