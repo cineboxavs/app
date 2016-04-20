@@ -1,7 +1,6 @@
 tv.aerialview.avsupdater
 org.lodi.mobi
 com.ca.cahd.ui
-com.dnproteam.funboxhd
 com.mitechlt.tvportal.play
 com.mxtech.videoplayer.ad
 com.livetv.android.livetv.uktvnow
