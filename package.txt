@@ -9,7 +9,6 @@ by.video.grabber.mix
 com.barrydrillercom.android
 com.baby.cinemabox
 com.tdo.showbox
-com.mobdro.android
 com.csappstudio.otherstore
 com.dndevteam.megahd
 com.thebestlivete.pkdintdpoe
