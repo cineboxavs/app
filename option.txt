@@ -14,3 +14,4 @@ Live sports TV
 Mobdro
 Cartoon HD 209
 Movie hd VLC
+VLC Player
