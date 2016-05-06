@@ -13,3 +13,4 @@ com.thebestlivete.pkdintdpoe
 com.mobdro.android
 com.mv.ca.ui
 org.videolan.vlc
+com.dnproteam.funboxhd
