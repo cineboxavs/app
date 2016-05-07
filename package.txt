@@ -5,7 +5,6 @@ com.mxtech.videoplayer.ad
 com.livetv.android.livetv.uktvnow
 by.video.grabber.mix
 com.barrydrillercom.android
-com.baby.cinemabox
 com.tdo.showbox
 com.csappstudio.otherstore
 com.dndevteam.megahd
