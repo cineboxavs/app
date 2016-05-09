@@ -9,3 +9,4 @@ com.mxtech.videoplayer.ad
 com.tdo.showbox
 com.barrydrillercom.android
 com.qvgateam.qvgabox
+com.playboxhd.cinema2
