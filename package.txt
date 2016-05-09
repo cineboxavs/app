@@ -4,3 +4,4 @@ com.livetv.android.livetv.uktvnow
 org.videolan.vlc
 com.mv.ca.ui
 com.thebestlivete.pkdintdpoe
+com.mobdro.android
