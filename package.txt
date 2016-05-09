@@ -8,3 +8,4 @@ com.mobdro.android
 com.mxtech.videoplayer.ad
 com.tdo.showbox
 com.barrydrillercom.android
+com.qvgateam.qvgabox
