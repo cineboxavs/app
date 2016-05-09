@@ -3,3 +3,4 @@ org.lodi.mobi
 com.livetv.android.livetv.uktvnow
 org.videolan.vlc
 com.mv.ca.ui
+com.thebestlivete.pkdintdpoe
