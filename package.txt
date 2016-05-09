@@ -1,15 +1,3 @@
 tv.aerialview.avsupdater
 org.lodi.mobi
-com.ca.cahd.ui
-com.mxtech.videoplayer.ad
-com.livetv.android.livetv.uktvnow
-by.video.grabber.mix
-com.barrydrillercom.android
-com.tdo.showbox
-com.csappstudio.otherstore
-com.dndevteam.megahd
-com.thebestlivete.pkdintdpoe
-com.mobdro.android
-com.mv.ca.ui
-org.videolan.vlc
-com.dnproteam.funboxhd
+
