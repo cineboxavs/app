@@ -5,3 +5,4 @@ org.videolan.vlc
 com.mv.ca.ui
 com.thebestlivete.pkdintdpoe
 com.mobdro.android
+com.mxtech.videoplayer.ad
