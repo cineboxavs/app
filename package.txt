@@ -2,3 +2,4 @@ org.videolan.vlc
 com.mxtech.videoplayer.ad
 com.mv.ca.ui
 com.mobdro.android
+com.dnproteam.funboxhd
