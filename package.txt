@@ -1,4 +1,2 @@
 org.videolan.vlc
 com.mxtech.videoplayer.ad
-com.tdo.showbox 
-com.dnproteam.funboxhd
