@@ -2,3 +2,4 @@ vlc player
 mx player
 movie hd
 mobdro
+cartoonhd3001
