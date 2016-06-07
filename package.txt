@@ -3,3 +3,4 @@ com.mxtech.videoplayer.ad
 com.mv.ca.ui
 com.mobdro.android
 com.dnproteam.funboxhd
+com.livetv.android.livetv.uktvnow
