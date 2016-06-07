@@ -1,2 +1,3 @@
 vlc player
 mx player
+movie hd
