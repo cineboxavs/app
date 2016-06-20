@@ -1,8 +1,2 @@
 vlc player
-mx player
-movie hd
-mobdro
-cartoonhd3001
-uktvnow
-videomix
 utv player
