@@ -1,2 +1,3 @@
 vlc player
 showbox
+movie hd, if you get parse error cairan go into downloads and install it from there
